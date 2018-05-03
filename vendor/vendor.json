@@ -595,13 +595,13 @@
 		},
 		{
 			"checksumSHA1": "8t9LWfB+pwiaDKaEef29Z89VnGY=",
-			"path": "github.com/prudhvitella/terraform-provider-infoblox",
+			"path": "github.com/alaskaairlines/terraform-provider-infoblox",
 			"revision": "adabc328f9a811acaa09cd9d4b4da650c9026048",
 			"revisionTime": "2017-03-29T21:50:00Z"
 		},
 		{
 			"checksumSHA1": "hTEpXCkWdZpoQ0bmN8QCnpNEabI=",
-			"path": "github.com/prudhvitella/terraform-provider-infoblox/infoblox",
+			"path": "github.com/alaskaairlines/terraform-provider-infoblox/infoblox",
 			"revision": "adabc328f9a811acaa09cd9d4b4da650c9026048",
 			"revisionTime": "2017-03-29T21:50:00Z"
 		},
@@ -928,5 +928,5 @@
 			"revisionTime": "2017-08-15T17:45:05Z"
 		}
 	],
-	"rootPath": "github.com/prudhvitella/terraform-provider-infoblox"
+	"rootPath": "github.com/alaskaairlines/terraform-provider-infoblox"
 }
