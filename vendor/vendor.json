@@ -199,7 +199,7 @@
 		},
 		{
 			"checksumSHA1": "h8AiJc65HX3Vp1vGkOBEA5umorQ=",
-			"path": "github.com/fanatic/go-infoblox",
+			"path": "github.com/alaskaairlines/go-infoblox",
 			"revision": "ece4e23a370d0bbac46d17f386f73d0d124a8d97",
 			"revisionTime": "2018-04-14T18:49:06Z"
 		},

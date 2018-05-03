@@ -321,7 +321,7 @@ resource "infoblox_record" "foobar" {
 
 ### Argument Reference
 
-See [related part of Infoblox Docs](https://godoc.org/github.com/fanatic/go-infoblox) for details about valid values.
+See [related part of Infoblox Docs](https://godoc.org/github.com/alaskaairlines/go-infoblox) for details about valid values.
 
 The following arguments are supported:
 
@@ -357,3 +357,4 @@ The following attributes are exported:
 * `name` - The name of the record
 * `type` - The type of the record
 * `ttl` - The TTL of the record
+
