@@ -3,7 +3,7 @@ package infoblox
 import (
 	"log"
 
-	"github.com/fanatic/go-infoblox"
+	"github.com/alaskaairlines/go-infoblox"
 )
 
 // Config holds authentication details of Infoblox
