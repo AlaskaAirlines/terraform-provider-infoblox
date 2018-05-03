@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/fanatic/go-infoblox"
+	"github.com/alaskaairlines/go-infoblox"
 	"github.com/hashicorp/terraform/helper/schema"
 )
 
